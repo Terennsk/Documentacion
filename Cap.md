@@ -1,4 +1,4 @@
-# 🛡️ HTB - Cap Writeup
+# HTB - Cap Writeup
 
 **Autor:** TRNNSK
 **Dificultad:** Simplon
@@ -93,7 +93,7 @@ USER: nathan
 PASS: Buck3tH4TF0RM3!
 ```
 
-### 📊 Respuestas HTB:
+### Respuestas HTB:
 - **What is the ID of the PCAP file that contains sensitive data?** → `0`
 - **Which application layer protocol...?** → `ftp`
 
@@ -110,7 +110,7 @@ Se prueban las credenciales en distintos servicios:
 ssh nathan@10.129.17.33
 ```
 
-### 📊 Respuesta HTB:
+### Respuesta HTB:
 - **On what other service does this password work?** → `ssh`
 
 ---
